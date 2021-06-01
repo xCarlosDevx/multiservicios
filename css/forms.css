@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background-color: rgb(228, 228, 228);
+  }
+  
+  .form-register {
+    width: 400px;
+    background: rgb(182, 25, 25);
+    padding: 30px;
+    margin: auto;
+    margin-top: 5px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+  }
+  .texto {
+    width:100%;
+    background: rgb(206, 60, 60);
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white; 
+  }
+  .texto h4 {
+    font-size: 30px; 
+  }
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+  }
+  
+  .controls {
+    width: 100%;
+    background: rgb(228, 228, 228);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border:none;
+    border-bottom: 1px solid #da1e1e;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: black;
+  }
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+  }
+  
+  .form-register a {
+    color: white;
+    text-decoration: none;
+  }
+  .link {   
+    position: absolute;
+    left:59%;
+    color: white; 
+    font-size: 13px;
+    transition: 1s;
+    font-family: 'calibri'; 
+
+
+  }
+  .link a {
+    border:none;
+    border-bottom: 1px solid #da1e1e;
+    color: white;
+    text-decoration: none;
+  }
+  
+  .form-register a:hover {
+    color: white;
+    text-decoration: underline;
+  }
+  
+  .form-register .botons {
+    width: 100%;
+    background: rgb(223, 55, 55);;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    transition: 1s;
+  }
+  .form-register .botons:hover {
+    width: 100%;
+    background: rgb(192, 37, 37);;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    transition: .5s;
+  }
+.area{
+  width: 80%;;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10px;
+}
+  .boton {
+    width: 15%;
+    padding: 10px;  
+    background: rgb(223, 55, 55);
+    border: none; 
+    color: white;
+    margin: 16px 90px;
+    font-size: 18px;
+    transition: 1s;
+    font-family: 'calibri';
+    font-size: 28px;
+  }
+ .boton:hover { 
+  width: 15%;
+  padding: 10px;  
+  background: rgb(192, 37, 37);
+  border: none; 
+  color: white;
+  margin: 16px 90px; 
+  transition: 1s;
+  font-family: 'calibri';
+  font-size: 28px;
+  }
+  a  {
+    text-decoration: none;
+  }
