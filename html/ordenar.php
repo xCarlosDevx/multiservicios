@@ -11,7 +11,7 @@
   
     <form class="form-register" action="guardar.php" method="POST">
       
-   <a href="../index.html" class="link">Ir a inicio</a>
+   <a href="../index.php" class="link">Ir a inicio</a>
     <h4>Formulario Registro</h4>
     
     <input class="controls" type="text" name="nombres" id="nombres" placeholder="Nombre">
