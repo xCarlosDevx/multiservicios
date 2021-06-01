@@ -1,0 +1,90 @@
+::-moz-selection {
+  background: #830101;
+}
+::selection {
+  background: #830101;
+}
+
+ 
+
+/* --- button theme --- */
+.btn-theme {
+  background: #830101;
+  *background-color: #830101;
+}
+
+.btn-theme:hover,
+.btn-theme:active,
+.btn-theme.active,
+.btn-theme.disabled,
+.btn-theme[disabled] {
+  background: #db3615;
+  *background: #db3615;
+}
+ 
+
+/* fontawesome icons */
+[class^="icon-"].active,
+[class*=" icon-"].active {
+    background-color: #830101;
+}
+
+
+ul.nav li.current {
+  color: #830101;
+}
+
+.navbar .nav > li > a:hover,
+.navbar .nav > li > a:focus,
+.navbar .nav > li > a:active,
+.navbar .nav > li.active > a {
+    color: #fff !important;
+}
+
+.sy-pager li.sy-active a {
+  background-color: #830101;
+}
+
+.navbar .nav > li > a:hover {
+  color: #830101;
+}
+
+input:focus {
+	border: 1px solid #830101;
+	border-width:1px;
+}
+textarea:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  border-color: #830101;
+}
+
+
+/* tab */
+
+.nav-tabs > a {
+	color:#830101;
+}
+
+
+/* accordion */
+.accordion-heading a:hover {
+	color: #830101;
+}
+.accordion-heading .active{
+	color: #830101;
+}
+
